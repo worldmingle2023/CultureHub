@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloudcomputing-worldmingle",
+  "private_key_id": "3bacab3069587aec6dccd98f688022c58b4ad659",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8VsJyAvoTfONn\nrUl0eM6cKQ5OHPuhocLQAgsySEFQ+Mko1gQoNAPwnRqi4tyxXy6gTa9uyH+gmQHT\nJlNTD44v4jBpuuaRDbTrQcZ85/SFCZtGUfY+L4wVuVLYalttMUamd9m6a6JVTGWe\noVlvRZRAhc5sCKgYdsOYa9UPQKBuTvJW1C6ZyH+B8QXbiTWO8SmfOntcXx0eb1Jj\nqOo9h/bICWtGUEIlrGJmBSbrzLvmV0KcSTj2zbBFIxyD1uN4lWwMR5PqNVCXNRdr\nGQZ9s80cvktqQhFWFNAFJ3r9Joc75wICqlY150QkZ1+hwAkK3Ru6EWsqwRGLl/V8\n0K7mqhlNAgMBAAECggEAB0GcekINGoUcSdlOVDN3WmLmjzHkrASMefEqN0S7Z4A+\nV9lvDZF7eWDELvRopljRdhGoKa+F400h2d3HJhMaWlPvo5M04O/TQaEmIZfaPunw\n1pO/1gOE9S1PuNDYNuvIGg/SDrGo7npkC+mRhYz7ukStgFIRD+g7fvrgmZbW14kY\nB4ce1QSV5JELnCeMIAiBHYuxJDSCTKRDWfU/KMyV8s6jJPpXH/l+upm0T8Z0cBOY\nrQZpKiFrVv9MAJMPFf6k1/ud1YJ1DKtqlh4ynK0y8WU7aMK2oIwa+CQaO2Q42cAu\nnx/GfLdWP3L2cRM6dbXZY/TMI+vpUKLRMiealAffIQKBgQD+1WlbFNKvUIJBWh+4\nqIHFLxY099RdA+zM8v0Bb4i6nFrmnqalvLKPZgqJ9VYC/W//TifBYtTvHgjWeJ8G\no488kj1W5qWanLCqZnZ1aJk70N+d5e3MWKiZ4hm60uI2FUUFgkff4tkUeynvAdG8\n315Ef9e9qsnduIGtA9OzA/L66QKBgQC9M2+oArzx1n7evogt9n3gH8MTz74aHoId\nzRM1wInbALxpuaj+A1L5ApIxv70qALnEAKm1+hwXL/XGT3Hj0oRTgbLcry23FLqk\nOCk8IjOmBS+ajvZYu9pdpw0awRVZxYBjyG4PRCtjl63Jb2Z8vXXOoRz5xU76llfl\nn7zvWcxkxQKBgGKXGFKnpLc085/rCTi84K/z/qhxdVSjLxs/qwjCKOjhkv2ERb77\nWS3Hca5cH3G6sXjZuOHFpdH5EbxAIG5GGyV5Aog7ZbiChIr4Zz4XQKl2rvz8ttqH\nNnuKkR/JdMEty21NMRd6QTf+SoPwdT+YP3VK7KGxkLXaKzlPsLiif3/5AoGBAIi0\ndpPlzpHK0waskobrWE4thO12qDwFGSzhNWUcRj84S+r0XBeVXUlQw0Mw8EQ+G/t0\nIyu6mLtkSuhMFNVxEW2pBAySgqyLTMRFU/4AFGN70caST4sTyJbskfpn0r53huoS\nMvvS3KrsOISYemvdFRcEsIQEPamwIbhnb8NdleKlAoGBAMoUfYbb8FwMoFsPMKWl\nmg+Hqwvg/7sDzPHIYs9YLtm5ExMib1fsnWcHoGAIg1i57/yezb4BG4HBvjFBZWtg\nvWmQOEr4ukj4Dkr57MOtwAXXjV74DaHM4zhod7lu4crEUFlmZMXBl184BasFehAD\nVyj1V8wFcLNtkB+6mWzNslPK\n-----END PRIVATE KEY-----\n",
+  "client_email": "worldmingle-discord@cloudcomputing-worldmingle.iam.gserviceaccount.com",
+  "client_id": "112236840750676532953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/worldmingle-discord%40cloudcomputing-worldmingle.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
